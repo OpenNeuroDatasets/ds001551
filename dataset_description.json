@@ -1,4 +1,8 @@
 {
     "Name": "Pupil Mimicry Promotes Trust",
-    "BIDSVersion": "1.0.1"
+    "BIDSVersion": "1.0.1",
+    "Authors": [
+        "Eliska Prochazkova"
+    ],
+    "ReferencesAndLinks": []
 }
