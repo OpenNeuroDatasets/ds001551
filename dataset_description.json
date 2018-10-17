@@ -1,8 +1,13 @@
 {
-    "Name": "Pupil Mimicry Promotes Trust",
+    "Name": "Pupil mimicry promotes trust through the theory-of-mind network",
     "BIDSVersion": "1.0.1",
     "Authors": [
-        "Eliska Prochazkova"
+        "Eliska Prochazkova",
+        "Luisa Prochazkova",
+        "Michael Rojek Giffin",
+        "Steven Scholte",
+        "Carsten de Dreu",
+        "Mariska Kret"
     ],
     "ReferencesAndLinks": []
 }
